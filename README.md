@@ -1,4 +1,4 @@
-####Welcome to hackajob’s Learning & Assessment Platform
+### Welcome to hackajob’s Learning & Assessment Platform
 
 By using our learning and assessment platform, you’ll be able to verify your skills whilst learning brand new ones. \
 Below are some things to note, to help you use our platform to the best of your ability: 
