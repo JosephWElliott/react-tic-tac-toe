@@ -1,8 +1,8 @@
 #!/bin/sh
 
-if [ -d "/project/app/.theia" ]; then
-  if [ ! -d "/project/.theia" ]; then
-    cp -R /project/app/.theia /project/.theia
+if [ -d "/projects/app/.theia" ]; then
+  if [ ! -d "/projects/.theia" ]; then
+    cp -R /projects/app/.theia /projects/.theia
   fi
 fi
 
