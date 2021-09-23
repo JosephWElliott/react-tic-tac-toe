@@ -6,4 +6,5 @@ if [ -d "/projects/app/.theia" ]; then
   fi
 fi
 
-yarn install && yarn start
+export NODE_OPTIONS=--max_old_space_size=4096
+NODE_OPTIONS=--max_old_space_size=4096 npm ci && npm start
