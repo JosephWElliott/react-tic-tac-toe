@@ -14,13 +14,13 @@ This is a simple interactive Tic-Tac-Toe game built with React. It features:
    git clone https://github.com/username/react-tic-tac-toe.git
    
 2. Navigate to the project directory and install dependencies:
-  ```bash
-  cd react-tic-tac-toe
-  npm install
+   ```bash
+   cd react-tic-tac-toe
+   npm install
 
 3. Start the development server:
-  ```bash
-  npm start
+   ```bash
+   npm start
 
 ## How to Play
 
