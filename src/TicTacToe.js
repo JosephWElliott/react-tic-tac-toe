@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import './TicTacToe.css';
+import './static/style/TicTacToe.css';
+
 
 function TicTacToe() {
   const [squares, setSquares] = useState(Array(9).fill(null));
