@@ -73,7 +73,7 @@ function TicTacToe() {
 
 export default TicTacToe;
 
-/* CSS File: TicTacToe.css */
+
 
 .tic-tac-toe {
   display: flex;
