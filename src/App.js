@@ -1,6 +1,6 @@
 import React from 'react';
 import './static/style/main.css';
-import './static/style/main.css';
+import './static/style/TicTacToe.css';
 import TicTacToe from './TicTacToe'; // Import TicTacToe component
 
 class App extends React.Component {
